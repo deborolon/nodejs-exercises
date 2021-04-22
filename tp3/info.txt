@@ -1,0 +1,23 @@
+{
+ "contentStr": "{\"type\":\"module\",\"name\":\"tp3\",\"version\":\"1.0.0\",\"description\":\"\",\"main\":\"index.js\",\"scripts\":{\"test\":\"echo \\\"Error: no test specified\\\" && exit 1\"},\"engines\":{\"node\":\">=14.0.0\",\"npm\":\">=6.0.0\"},\"author\":\"\",\"license\":\"ISC\",\"dependencies\":{\"express\":\"^4.17.1\"}}",
+ "contentObj": {
+  "type": "module",
+  "name": "tp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+   "node": ">=14.0.0",
+   "npm": ">=6.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+   "express": "^4.17.1"
+  }
+ },
+ "size": 335
+}
